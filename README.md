@@ -1,8 +1,7 @@
 # Movie Reviews Classification and Analysis
-This is a Machine Learning model that can predict the type of news based on their topics in the newspaper. 
+This is machine learning model for a movie review predicting Negative/Positive review of a movie using Deep Learning and Natural Language Processing.
 ### Accuracy of this model : 84%
 ### Algorithm used : Deep Learning : Neural Networks
 ## Technology used : 
-Python,Pandas,
-Sklearn,Keras
+Python,Pandas,Sklearn,Keras
 
